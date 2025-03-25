@@ -63,7 +63,7 @@ function AboutPage({ data }) {
           <div className="about-card">
             <h1 className="header-about">About Us</h1>
             <p className="paragraph-about">
-              Empathy Bytes VIP explores how multimedia and emerging technologies can enhance empathy and understanding as we
+              Empathy Bytes explores how multimedia and emerging technologies can enhance empathy and understanding as we
               create digital scholarship. This VIP section looks to document the stories of diverse communities in Georgia and beyond.
               The team explores how technology can enhance empathy, as well as improve access to resources. Most importantly, the students on
               this team ask themselves how these advanced technologies allow us to understand new perspectives, solve problems, or simply be a
